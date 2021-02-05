@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    background-image: url("./images/osman-rana-h8ZvH1Nf7Bk-unsplash.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main {
+    text-align: center;
+    color: whitesmoke;
+}
+
+h1 {
+    font-size: 95px;
+    text-align: center;
+    padding-top: 250px;
+}
+
+nav {
+    text-align: center;
+
+}
+
+ul {
+     list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+    
+}
+
+hr {
+    width: 5%;  
+}
+
+p {
+    padding: 50px;
+    font-size: 24px;
+}
+
+button {
+    background-color: whitesmoke;
+    border: none;
+    padding: 20px 55px;
+    font-size: 14px;
+    font-family: 'Josefin Sans';
+    border-radius: 35px;
+}
